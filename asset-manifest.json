@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/UNCOVER.eu/static/css/main.84e27869.css",
+    "main.css": "/UNCOVER.eu/static/css/main.10a541e1.css",
     "main.js": "/UNCOVER.eu/static/js/main.87dbf7bf.js",
     "static/js/453.a7e591d4.chunk.js": "/UNCOVER.eu/static/js/453.a7e591d4.chunk.js",
     "static/media/ezb.jpeg": "/UNCOVER.eu/static/media/ezb.d330da0a6baabc9323ce.jpeg",
     "static/media/star_reward.svg": "/UNCOVER.eu/static/media/star_reward.4b410df6d7d5ee53b075b0aabb28e7f1.svg",
     "index.html": "/UNCOVER.eu/index.html",
-    "main.84e27869.css.map": "/UNCOVER.eu/static/css/main.84e27869.css.map",
+    "main.10a541e1.css.map": "/UNCOVER.eu/static/css/main.10a541e1.css.map",
     "main.87dbf7bf.js.map": "/UNCOVER.eu/static/js/main.87dbf7bf.js.map",
     "453.a7e591d4.chunk.js.map": "/UNCOVER.eu/static/js/453.a7e591d4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84e27869.css",
+    "static/css/main.10a541e1.css",
     "static/js/main.87dbf7bf.js"
   ]
 }
